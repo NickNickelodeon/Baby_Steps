@@ -1,0 +1,9 @@
+{
+    "orgName": "Redman Enterprises",
+    "edition": "Developer",
+    "orgPreferences" : {
+        "enabled": ["S1DesktopEnabled"]
+    }
+    , "username": "test-sfdx@redmanenterprises.com"
+    , "adminEmail": "nickmredman@yahoo.com"
+}

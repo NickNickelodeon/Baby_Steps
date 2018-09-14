@@ -1,0 +1,367 @@
+[
+    [
+        "C:\\Users\\nickm\\Documents\\OAC\\WIP\\CLI_Test_Project_1\\force-app",
+        {
+            "sourcePath": "C:\\Users\\nickm\\Documents\\OAC\\WIP\\CLI_Test_Project_1\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1536790480680,
+            "changeTime": 1536790480680,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\nickm\\Documents\\OAC\\WIP\\CLI_Test_Project_1\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\nickm\\Documents\\OAC\\WIP\\CLI_Test_Project_1\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1536790480681,
+            "changeTime": 1536790480681,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\nickm\\Documents\\OAC\\WIP\\CLI_Test_Project_1\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\nickm\\Documents\\OAC\\WIP\\CLI_Test_Project_1\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1536888684015,
+            "changeTime": 1536888684015,
+            "contentHash": "a81adfb38730e0617c926d6068400ef4b82f1bf2"
+        }
+    ],
+    [
+        "C:\\Users\\nickm\\Documents\\OAC\\WIP\\CLI_Test_Project_1\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\nickm\\Documents\\OAC\\WIP\\CLI_Test_Project_1\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1536792119302,
+            "changeTime": 1536792119302,
+            "contentHash": "119e2f088cb7dfc60f905876a018eae1232e81fb",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\nickm\\Documents\\OAC\\WIP\\CLI_Test_Project_1\\force-app\\main\\default\\aura\\DemoComp",
+        {
+            "sourcePath": "C:\\Users\\nickm\\Documents\\OAC\\WIP\\CLI_Test_Project_1\\force-app\\main\\default\\aura\\DemoComp",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1536792119320,
+            "changeTime": 1536792119320,
+            "contentHash": "c602aa769dd62f17561299462770da4485dc3d8e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\nickm\\Documents\\OAC\\WIP\\CLI_Test_Project_1\\force-app\\main\\default\\aura\\DemoComp\\DemoComp.auradoc",
+        {
+            "sourcePath": "C:\\Users\\nickm\\Documents\\OAC\\WIP\\CLI_Test_Project_1\\force-app\\main\\default\\aura\\DemoComp\\DemoComp.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1536792119319,
+            "changeTime": 1536792119319,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\nickm\\Documents\\OAC\\WIP\\CLI_Test_Project_1\\force-app\\main\\default\\aura\\DemoComp\\DemoComp.cmp",
+        {
+            "sourcePath": "C:\\Users\\nickm\\Documents\\OAC\\WIP\\CLI_Test_Project_1\\force-app\\main\\default\\aura\\DemoComp\\DemoComp.cmp",
+            "isDirectory": false,
+            "size": 1169,
+            "modifiedTime": 1536886366272,
+            "changeTime": 1536886366272,
+            "contentHash": "820d05450aea897b543626a8da090048665efdbc",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "C:\\Users\\nickm\\Documents\\OAC\\WIP\\CLI_Test_Project_1\\force-app\\main\\default\\aura\\DemoComp\\DemoComp.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\nickm\\Documents\\OAC\\WIP\\CLI_Test_Project_1\\force-app\\main\\default\\aura\\DemoComp\\DemoComp.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 240,
+            "modifiedTime": 1536792119305,
+            "changeTime": 1536792119305,
+            "contentHash": "b1cc283c9cbc7277c5a03888ba7b7394f1cc9a47",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\nickm\\Documents\\OAC\\WIP\\CLI_Test_Project_1\\force-app\\main\\default\\aura\\DemoComp\\DemoComp.css",
+        {
+            "sourcePath": "C:\\Users\\nickm\\Documents\\OAC\\WIP\\CLI_Test_Project_1\\force-app\\main\\default\\aura\\DemoComp\\DemoComp.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1536792119313,
+            "changeTime": 1536792119313,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\nickm\\Documents\\OAC\\WIP\\CLI_Test_Project_1\\force-app\\main\\default\\aura\\DemoComp\\DemoComp.design",
+        {
+            "sourcePath": "C:\\Users\\nickm\\Documents\\OAC\\WIP\\CLI_Test_Project_1\\force-app\\main\\default\\aura\\DemoComp\\DemoComp.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1536792119321,
+            "changeTime": 1536792119321,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\nickm\\Documents\\OAC\\WIP\\CLI_Test_Project_1\\force-app\\main\\default\\aura\\DemoComp\\DemoComp.svg",
+        {
+            "sourcePath": "C:\\Users\\nickm\\Documents\\OAC\\WIP\\CLI_Test_Project_1\\force-app\\main\\default\\aura\\DemoComp\\DemoComp.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1536792119317,
+            "changeTime": 1536792119317,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\nickm\\Documents\\OAC\\WIP\\CLI_Test_Project_1\\force-app\\main\\default\\aura\\DemoComp\\DemoCompController.js",
+        {
+            "sourcePath": "C:\\Users\\nickm\\Documents\\OAC\\WIP\\CLI_Test_Project_1\\force-app\\main\\default\\aura\\DemoComp\\DemoCompController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1536792119307,
+            "changeTime": 1536792119307,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\nickm\\Documents\\OAC\\WIP\\CLI_Test_Project_1\\force-app\\main\\default\\aura\\DemoComp\\DemoCompHelper.js",
+        {
+            "sourcePath": "C:\\Users\\nickm\\Documents\\OAC\\WIP\\CLI_Test_Project_1\\force-app\\main\\default\\aura\\DemoComp\\DemoCompHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1536792119312,
+            "changeTime": 1536792119312,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\nickm\\Documents\\OAC\\WIP\\CLI_Test_Project_1\\force-app\\main\\default\\aura\\DemoComp\\DemoCompRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\nickm\\Documents\\OAC\\WIP\\CLI_Test_Project_1\\force-app\\main\\default\\aura\\DemoComp\\DemoCompRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1536792119315,
+            "changeTime": 1536792119315,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\nickm\\Documents\\OAC\\WIP\\CLI_Test_Project_1",
+        {
+            "sourcePath": "C:\\Users\\nickm\\Documents\\OAC\\WIP\\CLI_Test_Project_1",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1536791746359,
+            "changeTime": 1536791746359,
+            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\nickm\\Documents\\OAC\\WIP\\CLI_Test_Project_1\\force-app\\main\\default\\flexipages\\Demo_App.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\nickm\\Documents\\OAC\\WIP\\CLI_Test_Project_1\\force-app\\main\\default\\flexipages\\Demo_App.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 705,
+            "modifiedTime": 1536888683952,
+            "changeTime": 1536888683952,
+            "contentHash": "20793aeb739a4da95774c5e4aae912fac7107792"
+        }
+    ],
+    [
+        "C:\\Users\\nickm\\Documents\\OAC\\WIP\\CLI_Test_Project_1\\force-app\\main\\default\\tabs\\Demo_App.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\nickm\\Documents\\OAC\\WIP\\CLI_Test_Project_1\\force-app\\main\\default\\tabs\\Demo_App.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 315,
+            "modifiedTime": 1536888683961,
+            "changeTime": 1536888683961,
+            "contentHash": "e3685cbaea4d2d27972e584462d1a124995965a9"
+        }
+    ],
+    [
+        "C:\\Users\\nickm\\Documents\\OAC\\WIP\\CLI_Test_Project_1\\force-app\\main\\default\\applications\\standard__LightningSales.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\nickm\\Documents\\OAC\\WIP\\CLI_Test_Project_1\\force-app\\main\\default\\applications\\standard__LightningSales.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1045,
+            "modifiedTime": 1536888683970,
+            "changeTime": 1536888683970,
+            "contentHash": "d34e1a1f923aea7fc6f2941f06e02780185bbc1c"
+        }
+    ],
+    [
+        "C:\\Users\\nickm\\Documents\\OAC\\WIP\\CLI_Test_Project_1\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\nickm\\Documents\\OAC\\WIP\\CLI_Test_Project_1\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17925,
+            "modifiedTime": 1536888684036,
+            "changeTime": 1536888684036,
+            "contentHash": "7adaf139ca8e70d4d5ce5f96836822e015984c8f"
+        }
+    ],
+    [
+        "C:\\Users\\nickm\\Documents\\OAC\\WIP\\CLI_Test_Project_1\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\nickm\\Documents\\OAC\\WIP\\CLI_Test_Project_1\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4508,
+            "modifiedTime": 1536888684052,
+            "changeTime": 1536888684052,
+            "contentHash": "106a2b8e2523d786177dcae642941b4cd8529958"
+        }
+    ],
+    [
+        "C:\\Users\\nickm\\Documents\\OAC\\WIP\\CLI_Test_Project_1\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\nickm\\Documents\\OAC\\WIP\\CLI_Test_Project_1\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4846,
+            "modifiedTime": 1536888684064,
+            "changeTime": 1536888684064,
+            "contentHash": "bd0d7267e982606eeae1a5191bd5203ea2ba8cd2"
+        }
+    ],
+    [
+        "C:\\Users\\nickm\\Documents\\OAC\\WIP\\CLI_Test_Project_1\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\nickm\\Documents\\OAC\\WIP\\CLI_Test_Project_1\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4508,
+            "modifiedTime": 1536888684073,
+            "changeTime": 1536888684073,
+            "contentHash": "106a2b8e2523d786177dcae642941b4cd8529958"
+        }
+    ],
+    [
+        "C:\\Users\\nickm\\Documents\\OAC\\WIP\\CLI_Test_Project_1\\force-app\\main\\default\\flexipages",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\nickm\\Documents\\OAC\\WIP\\CLI_Test_Project_1\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1536888683949,
+            "changeTime": 1536888683949,
+            "contentHash": "a8786fc3a3cc7996408cfd7e4630e7e94cff8d4c"
+        }
+    ],
+    [
+        "C:\\Users\\nickm\\Documents\\OAC\\WIP\\CLI_Test_Project_1\\force-app\\main\\default\\tabs",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\nickm\\Documents\\OAC\\WIP\\CLI_Test_Project_1\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1536888683959,
+            "changeTime": 1536888683959,
+            "contentHash": "282c302ba648d8227cb1f1f13fec048e3495e5a8"
+        }
+    ],
+    [
+        "C:\\Users\\nickm\\Documents\\OAC\\WIP\\CLI_Test_Project_1\\force-app\\main\\default\\applications",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\nickm\\Documents\\OAC\\WIP\\CLI_Test_Project_1\\force-app\\main\\default\\applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1536888683967,
+            "changeTime": 1536888683967,
+            "contentHash": "773f904d4fd3e441ea0f66dde54c9ad8697bd065"
+        }
+    ],
+    [
+        "C:\\Users\\nickm\\Documents\\OAC\\WIP\\CLI_Test_Project_1\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\nickm\\Documents\\OAC\\WIP\\CLI_Test_Project_1\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1536888684070,
+            "changeTime": 1536888684070,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]
