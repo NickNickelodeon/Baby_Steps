@@ -20,6 +20,7 @@
     </div>
     <div class="slds-card__body slds-card__body_inner">
         We Just created a Lightning Component from source.
+        Now we've got an update!
     </div>
     <footer class="slds_card__footer">
         Great sucess!
